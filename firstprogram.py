@@ -15,3 +15,4 @@ print("My name is {0} and age is {1}".format(name, age)) #this is new format met
 
 
 print("hello world")
+print("i am learning python" )
